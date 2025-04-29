@@ -1,2 +1,2 @@
-﻿# KISHORE017-SIGN_LANGUAGE_DETECTION_USING_CV
+Hand gesture recognition
 
